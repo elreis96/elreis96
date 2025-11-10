@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/elreis96/elreis96/blob/main/banner-github.png" alt="Eduardo Reis | Análise e Ciência de Dados | Cloud e Segurança da Informação" />
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Eduardo Reis</h1>
 
 <p align="center">
@@ -10,9 +14,9 @@
 
 ## 🧠 Sobre mim
 
-Atuo na interseção entre **Cibersegurança e Ciência de Dados**, aplicando automações e análises em cloud para gerar **insights, desempenho e segurança**.  
+Atuo na interseção entre **Análise de Dados, Ciência de Dados e Cibersegurança**, aplicando **Python, SQL, Power BI e técnicas de IA** para criar soluções que transformam dados em **informações inteligentes e seguras**.    
 Tenho experiência prática em **monitoramento de redes**, **análise de vulnerabilidades** e **resposta a incidentes**, com conhecimento em **AWS, Azure, GWS**.  
-Hoje amplio minha atuação para **Análise e Engenharia de Dados**, usando **Python, SQL e Power BI** para transformar dados em informação útil e confiável.
+Hoje amplio minha atuação para **Análise de Dados e Ciência de Dados**, usando **Python, SQL e Power BI** para transformar dados em informação útil e confiável.
 
 ---
 
