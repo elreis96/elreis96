@@ -47,8 +47,6 @@ Hoje amplio minha atuação para **Análise de Dados e Ciência de Dados**, usan
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elreis96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elreis96&layout=compact&theme=tokyonight&hide_border=true"/>
